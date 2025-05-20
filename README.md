@@ -1,0 +1,2 @@
+# CCNU_2025_AI_IMDB_CLassification_Project
+CCNU_2025_AI_IMDB_CLassification_Project_For_HomeWork
